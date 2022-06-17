@@ -10,9 +10,9 @@
 
 Outside tech - I read books, play chess, ... A big fan of Rap too 🙂.
 
-- 📫 Collaboration? If you text we could be friends 
+- 📫 Collaboration? 
 > Mail: fatunmbiteniola001@gmail.com
 <!---
-Omoteniola-dev/Omoteniola-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+devteni/devteni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
