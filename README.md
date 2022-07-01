@@ -1,14 +1,17 @@
 <h2 align="center">Hi, I'm Teniola</h2>
 <p align="center">
-  <span><a href="https://devteni.netlify.app/">Website</a> | <a href="https://devteni.hashnode.dev">Blog</a> | <a href="https://twitter.com/devteni">Twitter</a></span>
+  <a href="https://devteni.hashnode.dev">Blog</a> | <a href="https://twitter.com/devteni">Twitter</a></span>
 </p>
 
 ---
 
 #### 💬 About
-✨ I am software engineer currently building scalable web applications with Javascript/Typescript. I use React to build user interfaces on the frontend and Nodejs(which I'm more inclined to) on the backend. I contribute to open source projects I find interesting and write about my learning on <a href="https://hashnode.com/@devteni">hashnode</a>. As an advocate for simplicity, I'm currently learning to master the art of explaining the seemingly abstract concepts in tech and computer science in general in black and white.
+✨ I am software engineer currently building scalable web applications with Javascript/Typescript, Python, and PHP. I use React to build user interfaces on the frontend a number of familiar technologies on the backend. I contribute to [open source projects](#open-source-projects-i'm-actively-contributing-to) I find interesting and write about my learning on <a href="https://hashnode.com/@devteni">hashnode</a>. As an advocate for simplicity, I'm currently learning to master the art of explaining the seemingly abstract concepts in tech and computer science in general in black and white.
 
-Outside tech - I read books, play chess, ... A big fan of Rap too 🙂.
+Outside tech - I read books, play chess, ... A big fan of Rap too :)
+
+### Open source Projects I'm actively contributing to.
+- [BigFastAPI](https://github.com/bigfastcode/bigfastapi) (A supercharged version of FastAPI that takes away the hard stuff in building backend APIs)
 
 - 📫 Collaboration? 
 > Mail: fatunmbiteniola001@gmail.com
