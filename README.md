@@ -10,7 +10,7 @@
 
 Outside tech - I read books, play chess, ... A big fan of Rap too :)
 
-### Open source Projects I'm actively contributing to.
+### :construction: Open source Projects I'm actively contributing to :high_brightness:
 - [BigFastAPI](https://github.com/bigfastcode/bigfastapi) (A supercharged version of FastAPI that takes away the hard stuff in building backend APIs)
 
 - 📫 Collaboration? 
