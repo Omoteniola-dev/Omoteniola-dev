@@ -14,7 +14,7 @@ Outside tech - I read books, play chess, ... A big fan of Rap too :)
 - [BigFastAPI](https://github.com/bigfastcode/bigfastapi) (A supercharged version of FastAPI that takes away the hard stuff in building backend APIs)
 
 - 📫 Collaboration? 
-> Mail: fatunmbiteniola001@gmail.com
+> Mail: interesting@teniolafatunmbi.com
 <!---
 devteni/devteni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
