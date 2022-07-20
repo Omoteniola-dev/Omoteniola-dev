@@ -8,7 +8,7 @@
 ### 💬 About
 ✨ I am software engineer currently building scalable web applications with Javascript/Typescript, Python, and PHP. I use ReactJS to build user interfaces for the web and a number of familiar server-side technologies for backend development. I contribute to [open source projects](#open-source-projects-i'm-actively-contributing-to) I find interesting and write about my learning on <a href="https://hashnode.com/@devteni">hashnode</a>. As an advocate for simplicity, I'm currently learning to master the art of explaining the seemingly abstract concepts in tech and computer science in general in black and white.
 
-Outside tech - I read books, play chess, ... A big fan of Rap too :)
+Outside tech - I read books, play chess sometimes, ... A big fan of Rap too :)
 
 ### :construction: Open source Projects I'm actively contributing to :high_brightness:
 - [BigFastAPI](https://github.com/bigfastcode/bigfastapi) (A supercharged version of [FastAPI](fastapi.tiangolo.com) that takes away the hard stuff in building backend APIs)
