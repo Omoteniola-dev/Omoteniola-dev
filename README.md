@@ -1,17 +1,14 @@
 
 <h2 align="center">Teniola Fatunmbi</h2>
 
-----
-<p align="center">
+<h4 align="center">
 Software Craftsman and Technical Writer
-</p>
+</h4>
 
-----
+<br />
 
 ### 💬 About
-I'm a software engineer building scalable web applications with Javascript/Typescript, Python, and PHP. 
-
-I contribute to [open source projects](#open-source-projects-i'm-actively-contributing-to) I find interesting and write about my learning on <a href="https://hashnode.com/@devteni">hashnode</a>. As an advocate for simplicity, I practice the art of explaining technical and seemingly abstract concepts in software engineering and computer science regularly.
+I'm a software engineer with production-level experience in building scalable web applications with Javascript/Typescript, Python, and PHP. I contribute to [open source projects](#open-source-projects-i'm-actively-contributing-to) I find interesting and write about my learning on <a href="https://hashnode.com/@devteni">hashnode</a>. As an advocate for simplicity, I practice the art of explaining technical and seemingly abstract concepts in software engineering and computer science regularly.
 
 
 ### :construction: What I'm Currently Working On
