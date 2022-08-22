@@ -2,7 +2,7 @@
 <h2 align="center">Teniola Fatunmbi</h2>
 
 <h4 align="center">
-Software Craftsman and Technical Writer
+Software Craftsman
 </h4>
 
 <br />
