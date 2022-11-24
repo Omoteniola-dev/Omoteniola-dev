@@ -8,7 +8,7 @@ Software Craftsman
 <br />
 
 ### 💬 About
-I'm a software engineer with production-level experience in building scalable web applications with Javascript/Typescript, Python, and PHP. I contribute to [open source projects](#open-source-projects-i'm-actively-contributing-to) I find interesting and write about my learning <a href="https://hashnode.com/@devteni">here</a>. As an advocate for simplicity, I practise the art of explaining technical and seemingly abstract concepts in software engineering and computer science regularly.
+I'm a software engineer with production-level experience in building scalable web applications with Javascript/Typescript, Python, and PHP. I contribute to [open source projects](#open-source-projects-i'm-actively-contributing-to) I find interesting and write about my learning <a href="https://hashnode.com/@devteni">here</a>. As an advocate for simplicity, I practise the art of explaining technical and seemingly abstract concepts in the visceral expression of my thoughts on paper.
 
 
 ### :construction: What I'm Currently Working On
@@ -18,6 +18,7 @@ I'm a software engineer with production-level experience in building scalable we
 - Database engineering
 - Algorithm design
 - User Experience(UX)
+- Empathic UI development
 
 ###  📫 Collaboration? 
 I'm open to paid collaborations on API documentation and contract gigs on technical writing and software development.
