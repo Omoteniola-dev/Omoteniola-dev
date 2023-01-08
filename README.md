@@ -16,7 +16,6 @@ I'm a software engineer with production-level experience in building scalable we
 
 ### :book: What I'm Actively Learning.
 - Database engineering
-- Algorithm design
 - User Experience(UX)
 - Empathic UI development
 
