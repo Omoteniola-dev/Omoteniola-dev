@@ -15,7 +15,7 @@ I'm a software engineer with production-level experience in building scalable we
 - [BigFastAPI](https://github.com/bigfastcode/bigfastapi) (A supercharged version of [FastAPI](fastapi.tiangolo.com) that takes away the hard stuff in building backend APIs)
 
 ### :book: What I'm Actively Learning.
-- Database engineering
+- Software architecture
 - User Experience(UX)
 - Empathic UI development
 
