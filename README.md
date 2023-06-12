@@ -14,9 +14,9 @@ As an advocate for simplicity, I enjoy the art of explaining technical and seemi
 
 
 ### :book: I'm always learning:
-- Software architecture.
-- User Experience(UX).
 - Empathic UI development.
+- User Experience(UX).
+- Software architecture.
 
 ###  📫 Collaboration? 
 I'm open to paid collaborations on API documentation and contract gigs on technical writing and software development.
