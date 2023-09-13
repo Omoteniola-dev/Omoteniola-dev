@@ -2,13 +2,13 @@
 <h2 align="center">Teniola Fatunmbi</h2>
 
 <h4 align="center">
-Software Craftsman
+Builder.
 </h4>
 
 <br />
 
 ### 💬 About
-I'm a software engineer with production-level experience in building scalable web applications with Javascript/Typescript, Python, and PHP. I'm currently doing the best work I can at a couple of places. 
+I'm a software engineer with production-level experience in building scalable web applications with Javascript, Python, and PHP. I'm currently doing the best work I can at a couple of places. 
 
 As an advocate for simplicity, I enjoy the art of explaining technical and seemingly abstract concepts in the visceral expression of my thoughts on paper.
 
