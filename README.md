@@ -13,10 +13,10 @@ I'm a software engineer with production-level experience in building scalable we
 As an advocate for simplicity, I enjoy the art of explaining technical and seemingly abstract concepts in the visceral expression of my thoughts on paper.
 
 
-### :book: I'm always learning:
-- Empathic UI development.
+### Interests:
 - User Experience(UX).
 - Software architecture.
+- Backend engineering.
 
 ###  📫 Collaboration? 
 I'm open to paid collaborations on API documentation and contract gigs on technical writing and software development.
