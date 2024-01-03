@@ -8,7 +8,7 @@ Builder.
 <br />
 
 ### 💬 About
-I'm a software engineer with production-level experience in building scalable web applications with Javascript, Python, and PHP. I'm currently doing the best work I can at a couple of places. 
+I build software products with JavaScript, TypeScript, Python, and PHP. I'm currently doing the best work I can at a couple of places. 
 
 As an advocate for simplicity, I enjoy the art of explaining technical and seemingly abstract concepts in the visceral expression of my thoughts on paper.
 
@@ -17,6 +17,7 @@ As an advocate for simplicity, I enjoy the art of explaining technical and seemi
 - User Experience(UX).
 - Software architecture.
 - Backend engineering.
+- Local-first development
 
 ###  📫 Collaboration? 
 I'm open to paid collaborations on API documentation and contract gigs on technical writing and software development.
