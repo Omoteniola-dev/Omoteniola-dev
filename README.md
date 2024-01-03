@@ -17,7 +17,7 @@ As an advocate for simplicity, I enjoy the art of explaining technical and seemi
 - User Experience(UX).
 - Software architecture.
 - Backend engineering.
-- Local-first development
+- Local-first development.
 
 ###  📫 Collaboration? 
 I'm open to paid collaborations on API documentation and contract gigs on technical writing and software development.
