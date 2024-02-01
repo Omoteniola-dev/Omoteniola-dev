@@ -2,7 +2,7 @@
 <h2 align="center">Teniola Fatunmbi</h2>
 
 <h4 align="center">
-Builder.
+Builder. Software writer.
 </h4>
 
 <br />
@@ -18,9 +18,6 @@ As an advocate for simplicity, I enjoy the art of explaining technical and seemi
 - Software architecture.
 - Backend engineering.
 - Local-first development.
-
-###  📫 Collaboration? 
-I'm open to paid collaborations on API documentation and contract gigs on technical writing and software development.
 
 ### Reach Out
 I'm open to learning new stuff at the intersection of culture and technology.
