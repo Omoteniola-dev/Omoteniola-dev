@@ -2,7 +2,7 @@
 <h2 align="center">Teniola Fatunmbi</h2>
 
 <h4 align="center">
-Builder. Software writer.
+- Builder. Software writer. -
 </h4>
 
 <br />
