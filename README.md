@@ -8,7 +8,7 @@
 <br />
 
 ### 💬 About
-I build software products with JavaScript, TypeScript, Python, and PHP. I'm currently doing the best work I can at a couple of places. 
+I build software with JavaScript, TypeScript, and Python. I'm currently doing the best work I can at a couple of places. 
 
 As an advocate for simplicity, I enjoy the art of explaining technical and seemingly abstract concepts with the visceral expression of my thoughts on paper.
 
