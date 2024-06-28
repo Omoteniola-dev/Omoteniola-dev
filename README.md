@@ -17,7 +17,6 @@ As an advocate for simplicity, I enjoy the art of explaining technical and seemi
 - User Experience(UX).
 - Software architecture.
 - Backend engineering.
-- Local-first development.
 
 ### Reach Out
 I'm open to learning new stuff at the intersection of culture and technology.
